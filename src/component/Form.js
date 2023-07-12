@@ -82,7 +82,7 @@ export default function Form() {
           email: "",
           phoneNumber: "",
         });
-        toast.success("DATA STORED SUCCESSFULLY");
+        toast.success("Data stored successfully !!!np");
       }
     } else {
       toast.error("Please fill the data correctly !!!");
